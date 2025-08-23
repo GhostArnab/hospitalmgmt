@@ -1,7 +1,7 @@
 ﻿# DocAppointment
- 🏥 Hospital Management System (Java + MySQL)
+ 🏥 Doctor Appointment System (Java + MySQL)
 
-This is a console-based Hospital Management System built in Java with MySQL as the backend database. The system allows hospital staff to manage patients, doctors, and appointments in an efficient and organized manner.
+This is a console-based Doctor Appointment System built in Java with MySQL as the backend database. The system allows hospital staff to manage patients, doctors, and appointments in an efficient and organized manner.
 
 🔧 Features
 
@@ -24,5 +24,6 @@ MySQL Database
 JDBC Driver (com.mysql.cj.jdbc.Driver)
 
 Console-based UI
+
 
 
